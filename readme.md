@@ -1,4 +1,4 @@
-# Titanic Veri Analici
+# Titanic Veri Analizi
 
 Bu projede, Akbank Veri Analizi Bootcamp: Yeni Nesil Proje Kampı kapsamında Titanic veri seti üzerinde, keşifsel veri analizi, veri temizleme ve ön işleme, temel istatistiksel analizler, veri görselleştirme, değişkenler arası ilişki incelemesi ve feature selection uygulanmıştır.
 
